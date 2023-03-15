@@ -17,8 +17,6 @@ build/
 #모든 팀원들의 프로젝트 clone & import가 끝나면추가
 .settings/
 # README.md
-**/*.gradle
-**/*.yml
 .apt_generated
 .classpath
 .factorypath
