@@ -25,8 +25,10 @@
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"> 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/기술이름-#제외색상번호?style=for-the-badge&logo=아이콘이름&logoColor=white">
-  <img src="https://img.shields.io/badge/VisualStudioCode-00A6CC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/miro-EAB700?style=for-the-badge&logo=miro&logoColor=black">
+<img src="https://img.shields.io/badge/VisualStudioCode-00A6CC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/slack-4F007A?style=for-the-badge&logo=slack&logoColor=white">
+<img src="https://img.shields.io/badge/notion-00C9C2?style=for-the-badge&logo=notion&logoColor=black">
 </p>
 
 ## 팀원 소개
